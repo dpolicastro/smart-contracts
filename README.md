@@ -1,5 +1,5 @@
 # Smart Contracts
-Some example Smart Contracts that can run on any EVM compactible environment.
+Some example Smart Contracts that can run on any EVM compatible environment.
 
 ## Implemetations
 - [x] ERC20
